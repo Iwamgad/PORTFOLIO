@@ -3,7 +3,7 @@
 ![Landing Page](https://github.com/Iwamgad/PORTFOLIO/blob/main/Landing%20Page.jpg)
 
 ## Table of Content
-1. [Project Description](#project-description)
+1. [1. Project Description](#1.-project-description)
 2. [Environment Used](#Environment-Used)
 3. [How to install it](#How-to-install-it)
 4. [File Content](#File-Content)
@@ -15,7 +15,7 @@
 
 
 
-1. ##  Project Description
+## 1. Project Description
  _This project is A fully functional book recommendation application written in Python, HTML, CSS and Java Script._
 
 
