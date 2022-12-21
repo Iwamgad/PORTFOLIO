@@ -3,7 +3,7 @@
 ![Landing Page](https://github.com/Iwamgad/PORTFOLIO/blob/main/Landing%20Page.jpg)
 
 ## Table of Content
-1. [Project Description](#Project-Description)
+1. [1. Project Description](#Project-Description)
 2. [Environment Used](#Environment-Used)
 3. [How to install it](#How-to-install-it)
 4. [File Content](#File-Content)
