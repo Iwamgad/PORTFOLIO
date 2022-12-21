@@ -1,5 +1,4 @@
 # **BookCafe**
-### 
 
 ## Table of Content
 1. [Project Description](#Project-Description)
@@ -14,11 +13,11 @@
 
 
 ## 1. Project Description
-### _This project is A fully functional book recommendation application written in Python, HTML, CSS and Java Script._
+ _This project is A fully functional book recommendation application written in Python, HTML, CSS and Java Script._
 
 
 ## 2. Environment Used
-### _This project is interpreted/compiled on ......................._
+ _This project is interpreted/compiled on ......................._
 
 
 ## 3. How to install it
@@ -34,7 +33,7 @@ _............................_
 _............................_
 
 ## 6. Bugs
-#### _No known bugs at this time_
+ _No known bugs at this time_
 
 
 ## 7. Authors
