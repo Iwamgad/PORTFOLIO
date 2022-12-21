@@ -14,7 +14,7 @@
 9. [License](##License)
 
 
-## 1. <a name= "Project-Description"> </a> Project Description
+## <a name= "Project-Description"> </a> Project Description
  _This project is A fully functional book recommendation application written in Python, HTML, CSS and Java Script._
 
 
@@ -49,6 +49,6 @@ _............................_
 |_Tesfay Teshome_|[_Github_](https://github.com/Tesfay-Teshome)|
 
 
-## 8. <a name= "License"> </a>License
+## <a name= "License"> </a>License
 _Public Domain. No copy write protection._
 
