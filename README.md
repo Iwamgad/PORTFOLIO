@@ -14,37 +14,37 @@
 
 
 ## 1. Project Description
-### This project is A fully functional book recommendation application written in Python, HTML, CSS and Java Script. 
+### _This project is A fully functional book recommendation application written in Python, HTML, CSS and Java Script._
 
 
 ## 2. Environment Used
-### This project is interpreted/compiled on .......................
+### _This project is interpreted/compiled on ......................._
 
 
 ## 3. How to install it
-1. Clone this repository: ```............. ```
-2. Access the ............... directory: ```cd ...........```
-3. Run ............: ```.............```
+1. _Clone this repository: ```............. ```_
+2. _Access the ............... directory: ```cd ...........```_
+3. _Run ............: ```.............```_
 
 
 ## 4. File Content
-............................
+_............................_
 
 ## 5. Examples of use
-............................
+_............................_
 
 ## 6. Bugs
-#### No known bugs at this time
+#### _No known bugs at this time_
 
 
 ## 7. Authors
-|Name | Github Account|
+|_Name_ | _Github Account_|
 |-----|-------|
-|Biruk Gelelcha|[Github](https://github.com/Biruk-G3)|
-|Dagmawi Andualem|[Github](https://github.com/Iwamgad)|
-|Tesfay Teshome|[Github](https://github.com/Tesfay-Teshome)|
+|_Biruk Gelelcha_|[_Github_](https://github.com/Biruk-G3)|
+|_Dagmawi Andualem_|[_Github_](https://github.com/Iwamgad)|
+|_Tesfay Teshome_|[_Github_](https://github.com/Tesfay-Teshome)|
 
 
 ## 8. License
-Public Domain. No copy write protection.
+_Public Domain. No copy write protection._
 
