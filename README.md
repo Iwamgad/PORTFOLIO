@@ -3,15 +3,15 @@
 ![Landing Page](https://github.com/Iwamgad/PORTFOLIO/blob/main/Landing%20Page.jpg)
 
 ## Table of Content
-1. [Project Description](#Project-Description)
-2. [Environment Used](#Environment-Used)
-3. [How to install it](#How-to-install-it)
-4. [File Content](#File-Content)
-5. [How to use it](#Usage)
-6. [Examples of Use](#Examples-of-Use)
-7. [Bugs](#Bugs)
-8. [Authors](#Authors)
-9. [License](#License)
+1. [Project Description](##Project-Description)
+2. [Environment Used](##Environment-Used)
+3. [How to install it](##How-to-install-it)
+4. [File Content](##File-Content)
+5. [How to use it](##Usage)
+6. [Examples of Use](##Examples-of-Use)
+7. [Bugs](##Bugs)
+8. [Authors](##Authors)
+9. [License](##License)
 
 
 ## 1. <a name= "Project-Description"> </a> Project Description
