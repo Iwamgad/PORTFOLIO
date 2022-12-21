@@ -15,7 +15,7 @@
 
 
 
-## Project Description
+## 1. Project Description
  _This project is A fully functional book recommendation application written in Python, HTML, CSS and Java Script._
 
 
