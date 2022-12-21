@@ -31,7 +31,7 @@
 ............................
 
 ## 5. Examples of use
-
+............................
 
 ## 6. Bugs
 #### No known bugs at this time
